@@ -6,4 +6,5 @@ A serverless function to check your daily cost on AWS using the Cost Explorer AP
 I have also provided an example `serverless.yml` file which sets up the correct IAM permissions and runs the function at 10AM every day. 
 
 P.S: Each API call to Cost Explorer service costs $0.01 itself.
+
 P.S: `sample.md` file contains a sample output record from AWS.
